@@ -1,4 +1,4 @@
-# MPGS Furniture Ecommerce
+# MPGS Furniture Ecommerce Global Site Plan
 
 > **Dual-market furniture ecommerce platform** — serving both mass consumers and luxury/trade clients.
 > Backend: Medusa v2 · Storefront: Next.js 16 · Target: localhost → VPS
